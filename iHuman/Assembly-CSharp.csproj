@@ -53,7 +53,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Real Materials\Showcase\Scripts\Camera_WASD_movement.cs" />
+     <Compile Include="Assets\Real Materials\Showcase\Scripts\LPPV_lighting_update_only_once.cs" />
+     <Compile Include="Assets\Scripts\attachmentUpgrade.cs" />
      <Compile Include="Assets\Scripts\contactDisable.cs" />
+     <Compile Include="Assets\Scripts\contactEnable.cs" />
      <Compile Include="Assets\Scripts\FlamesFollow.cs" />
      <Compile Include="Assets\Scripts\FollowPlayer.cs" />
      <Compile Include="Assets\Scripts\Fuel.cs" />
@@ -65,22 +69,24 @@
      <None Include="Assets\laxer Assets\Terrain Shader\Shaders\custom terrain Bump fade addpass.shader" />
      <None Include="Assets\laxer Assets\Terrain Shader\Shaders\custom terrain Bump fade.shader" />
      <None Include="Assets\laxer Assets\Terrain Shader\AddOn1\4x UV_Mixing.shader" />
+     <None Include="Assets\Real Materials\Showcase\Sounds\Seisemic - license.txt" />
      <None Include="Assets\laxer Assets\Terrain Shader\Shaders\HeightBlendx5.shader" />
      <None Include="Assets\laxer Assets\Terrain Shader\AddOn2\custom terrain Bump fade 4x smooth.shader" />
      <None Include="Assets\laxer Assets\Terrain Shader\Shaders\custom terrain fade addpass.shader" />
      <None Include="Assets\laxer Assets\Terrain Shader\Shaders\HeightBlendSpecularx4.shader" />
+     <None Include="Assets\Real Materials\Showcase\Sounds\Waves background - license.txt" />
      <None Include="Assets\laxer Assets\Terrain Shader\Shaders\HeightBlendRGB.shader" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/Jonathon/Documents/GitHub/iHuman/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/Jonathon/Documents/GitHub/iHumanGame/iHuman/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Jonathon/Documents/GitHub/iHuman/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Jonathon/Documents/GitHub/iHumanGame/iHuman/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/Jonathon/Documents/GitHub/iHuman/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/Jonathon/Documents/GitHub/iHumanGame/iHuman/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Jonathon/Documents/GitHub/iHuman/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Jonathon/Documents/GitHub/iHumanGame/iHuman/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
