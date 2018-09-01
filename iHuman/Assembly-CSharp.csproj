@@ -63,7 +63,9 @@
      <Compile Include="Assets\Scripts\Fuel.cs" />
      <Compile Include="Assets\Scripts\openTutorialTunnel.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
-     <Compile Include="Assets\TinyFire VFX\LightControl.cs" />
+     <Compile Include="Assets\Scripts\shatterOnImpact.cs" />
+     <Compile Include="Assets\TinyFire\LightControl.cs" />
+     <None Include="Assets\Mats\3DText.shader" />
      <None Include="Assets\laxer Assets\Terrain Shader\Shaders\HeightBlendNormalx5.shader" />
      <None Include="Assets\laxer Assets\Terrain Shader\Shaders\custom terrain Diffuse fade.shader" />
      <None Include="Assets\laxer Assets\Terrain Shader\Shaders\custom terrain Bump fade addpass.shader" />
